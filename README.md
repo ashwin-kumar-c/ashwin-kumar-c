@@ -14,7 +14,7 @@
   - 🔧 Git | GitHub
 
 🤝🏻  **Connect  with Me**
-  
-      📧 [E-mail](ashwinkumartth@gmail.com)     
-      🔗 [LinlkedIn](https://www.linkedin.com/in/ashwin-kumar-c-690625147/)      
-      🏬 [GitHub](https://github.com/ashwin-kumar-c)
+
+    📧 [E-mail](ashwinkumartth@gmail.com)
+    🔗 [LinlkedIn](https://www.linkedin.com/in/ashwin-kumar-c-690625147/)  
+    🏬 [GitHub](https://github.com/ashwin-kumar-c)
