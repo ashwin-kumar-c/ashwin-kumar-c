@@ -15,5 +15,10 @@
 
 🤝🏻  **Connect  with Me**
 
-   📧  [E-mail](ashwinkumartth@gmail.com)
-   🔗  [LinlkedIn](https://www.linkedin.com/in/ashwin-kumar-c-690625147/)  🏬  [GitHub](https://github.com/ashwin-kumar-c)
+   📧 ashwinkumartth@gmail.com
+   
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ashwin-kumar-c)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashwin-kumar-c-690625147//)  
+
+
