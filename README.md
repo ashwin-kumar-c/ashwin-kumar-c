@@ -17,4 +17,4 @@
 
    📧 ashwinkumartth@gmail.com    
    🔗 [LinlkedIn](https://www.linkedin.com/in/ashwin-kumar-c-690625147/)  
-   🏬 [GitHub](https://github.com/ashwin-kumar-c)
+   🗃  [GitHub](https://github.com/ashwin-kumar-c)
